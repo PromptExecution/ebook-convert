@@ -24,7 +24,9 @@ fi
 Example:
 ```shell script
 convert-ebook ~/my-ebook.epub mobi
+convert-ebook ~/my-ebook.epub pdf
 ```
+
 
 
 
